@@ -4,7 +4,7 @@ Glad to make you an acquaintance.
 
 😄 My prefered pronouns are : He / Him
 
-🌱Currently learning about: C#.NET, ASP.NET, Vue.js
+🌱Currently working with: Javascript, Node.js, Vue.js, Angular
 
 
 <strong>My Stack</strong>
